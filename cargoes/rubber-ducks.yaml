@@ -1,0 +1,17 @@
+abbreviation: RD
+available: true
+classes: 544
+colour: 191
+id: 0
+label: Duck
+longName: rubber ducks
+name: Rubber Ducks
+penaltyLength: 215
+penaltyLowerBound: 40
+price: 5757
+sprite:
+  filename: cargoes/rubber-ducks.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16
